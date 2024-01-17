@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MrBattery
 //
-//  Created by jeffrey on 11/5/2016.
+//  Created by jeffrey hhhon 11/5/2016.
 //  Copyright © 2016 shaw. All rights reserved.
 //
 
